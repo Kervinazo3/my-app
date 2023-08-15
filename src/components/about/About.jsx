@@ -38,7 +38,7 @@ const About = () => {
               <small>80+ completados</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque voluptatibus expedita, dolores facilis obcaecati quas fugiat doloribus eaque. Debitis delectus commodi possimus nulla facilis? Maiores corporis explicabo voluptatem quam harum?</p>
+          <p>¿Qué servicio ofrezco? Actualmente diseño, rediseño y programo sitios de aplicaciones web</p>
           <a href="#contact" className='btn btn-primary' >les't talk</a>
         </div>
       </div>
