@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
           <p>¿Qué servicio ofrezco? Actualmente diseño, rediseño y programo sitios de aplicaciones web</p>
-          <a href="#contact" className='btn btn-primary' >les't talk</a>
+          <a href="#contact" className='btn btn-primary' >¡Contáctame!</a>
         </div>
       </div>
 
